@@ -29,7 +29,7 @@ HTML · CSS · React
 
 ## 💌 Contacto
 
-📷 Instagram: (tu usuario aquí)  
+📷 Instagram: @noelajusto03 
 📧 hola.noela@gmail.com  
 
 ---
