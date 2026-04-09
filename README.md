@@ -1,39 +1,43 @@
-# ✨ Hola, soy Noela 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200">
+</p>
 
-💻 Estudiante de desarrollo web y diseño gráfico  
-🌍 Galicia, España  
-🎨 Apasionada por el diseño, el frontend y los proyectos creativos  
+# ✨ Hola, soy Noela ✨
 
----
-
-## 🧠 Sobre mí
-
-Me interesa crear proyectos donde el diseño y la funcionalidad se combinen.  
-Disfruto trabajando en ideas visuales, páginas web y experiencias digitales cuidadas.
+<p align="center">
+💻 desarrollo web · 🎨 diseño gráfico · 🌍 Galicia  
+</p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🌷 Sobre mí
 
-- HTML  
-- CSS  
-- React  
-
----
-
-## 🌱 Actualmente
-
-- Mejorando mis habilidades en React  
-- Aprendiendo más sobre diseño web  
-- Creando proyectos personales  
+Me gusta crear cosas bonitas en internet.  
+Combino diseño y código para construir proyectos con personalidad.
 
 ---
 
-## 📫 Contacto
+## 💻 Tecnologías
 
-📷 Instagram: @noelajusto03
-📧 Email: hola.noela@gmail.com 
+HTML · CSS · React  
 
 ---
 
-✨ *Poco a poco construyendo mi camino en el mundo del desarrollo y el diseño*
+## 🌼 Actualmente
+
+🌱 Aprendiendo React  
+🎨 Mejorando en diseño  
+✨ Creando proyectos personales  
+
+---
+
+## 💌 Contacto
+
+📷 Instagram: (tu usuario aquí)  
+📧 hola.noela@gmail.com  
+
+---
+
+<p align="center">
+✨ creciendo poco a poco ✨
+</p>
